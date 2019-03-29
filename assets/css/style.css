@@ -1,5 +1,12 @@
 h1 {
     text-align: center;
+    font-family: 'Poiret One', cursive;
+  
+
+  }
+  .display-4 {
+    font-family: 'Poiret One', cursive;
+    font-size: 400px;
   }
   
   h2 {
@@ -28,6 +35,8 @@ h1 {
   .card-header {
     color: white;
     font-weight: bold;
+    font-family: 'Poiret One', cursive;
+
   }
   
   
